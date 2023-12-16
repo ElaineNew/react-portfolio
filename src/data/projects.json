@@ -1,0 +1,40 @@
+[
+  {
+      "title": "Purrfect",
+      "image": "projects/purrfect.png",
+      "github":"https://github.com/ElaineNew/Purrfect",
+      "live":"https://purrfect-pet-shelter.onrender.com",
+      "description": "Pet shelter website for pet adoption.",
+      "technologies": "HTML/CSS, Javascript, Bootstrap, Node.js, ejs, MongoDB.",
+      "date":"July 31, 2023"
+  },
+  {
+      "title": "ChatPDF",
+      "image": "projects/chatpdf.png",
+      "github":"https://github.com/ElaineNew/chatpdf",
+      "live":"https://chatpdf-elaine.vercel.app/",
+      "description": "AI chat application with PDF integration",
+      "technologies": "Next.js, OpenAI API, AWS S3, LangChain, Pinecone, TailWind, Clerk.",
+      "date":"Nov 24, 2023"
+  },
+  {
+      "title": "MusicHub ",
+      "image": "projects/musichub.png",
+      "github":"https://github.com/ElaineNew/Muischub",
+      "live":"https://playlist-b118d.web.app/alllists",
+      "description": "Music application for user to share playlists.",
+      "technologies": "VUE.js, Firebase, JavaScript, HTML/CSS, Bootstrap.",
+      "date":"Nov 10, 2023"
+  },
+
+  {
+      "title": "Coderfly ",
+      "image": "projects/coderfly.png",
+      "github":"https://github.com/ElaineNew/Assignment2",
+      "live":"https://github.com/ElaineNew/Assignment2",
+      "description": "A blog website for user to share their notes.",
+      "technologies": "HTML/CSS, JavaScript, MySQL, PHP, XAMPP",
+      "date":"Nov 10, 2023"
+  }
+
+]
